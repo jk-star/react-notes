@@ -213,3 +213,17 @@ Good Morning
 
 {myFunction()}
 </pre></code>
+
+## Interview Questions
+
+**Q1. JSX kya hai?**
+- JavaScript ke andar HTML jaisa syntax likhne ka tarika.
+
+**Q2. JSX browser samajhta hai?**
+- ❌ Nahi Vite/Babel JavaScript me convert karta hai.
+
+**Q3. JSX me class ki jagah kya use hota hai?**
+- className
+
+**Q4. JSX me JavaScript kaise likhte hain?**
+- ``{}`` Curly Braces.

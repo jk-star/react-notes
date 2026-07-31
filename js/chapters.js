@@ -21,13 +21,13 @@ const chapters = [
     },
     {
         id: 5,
-        title: "Loop",
-        file: "chapter-5_loop.md"
+        title: "Components",
+        file: "chapter-5_components.md"
     },
     {
         id: 6,
-        title: "Functions",
-        file: "chapter-6_functions.md"
+        title: "Props",
+        file: "chapter-6_props.md"
     },
     {
         id: 7,
