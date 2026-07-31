@@ -36,23 +36,23 @@ const chapters = [
     },
     {
         id: 8,
-        title: "Objects & Destructuring",
-        file: "chapter-8_objects.md"
+        title: "State (useState Hook)",
+        file: "chapter-8_state.md"
     },
     {
         id: 9,
-        title: "ES6 Features (Spread, Rest, Optional Chaining, Nullish Coalescing)",
-        file: "chapter-9_ES6-features.md"
+        title: "Rendering Lists (map())",
+        file: "chapter-9_map.md"
     },
     {
         id: 10,
-        title: "Modules (import / export)",
-        file: "chapter-10_modules.md"
+        title: "Conditional Rendering",
+        file: "chapter-10_conditional-rendering.md"
     },
     {
         id: 11,
-        title: "Promises",
-        file: "chapter-11_promises.md"
+        title: "Forms",
+        file: "chapter-11_forms.md"
     },
     {
         id: 12,
