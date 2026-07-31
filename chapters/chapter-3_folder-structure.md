@@ -96,11 +96,12 @@ Browser
     - Dependencies
 
 **Example**
+
 <code><pre>
 {
   "name": "my-first-app"
 }
-</pre><code>
+</pre></code>
 
 ## 8. vite.config.js
 - Vite ki settings.

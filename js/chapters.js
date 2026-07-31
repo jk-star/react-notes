@@ -16,8 +16,8 @@ const chapters = [
     },
     {
         id: 4,
-        title: "Decision Making",
-        file: "chapter-4_decision-making.md"
+        title: "JSX (JavaScript XML)",
+        file: "chapter-4_jsx.md"
     },
     {
         id: 5,
