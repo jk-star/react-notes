@@ -6,13 +6,13 @@ const chapters = [
     },
     {
         id: 2,
-        title: "Data Types",
-        file: "chapter-2_data-type.md"
+        title: "Environment Setup (Vite)",
+        file: "chapter-2_environment-setup-with-vite.md"
     },
     {
         id: 3,
-        title: "Template Literals",
-        file: "chapter-3_template-literals.md"
+        title: "Folder Structure",
+        file: "chapter-3_folder-structure.md"
     },
     {
         id: 4,
