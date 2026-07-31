@@ -31,8 +31,8 @@ const chapters = [
     },
     {
         id: 7,
-        title: "Arrays",
-        file: "chapter-7_arrays.md"
+        title: "Events",
+        file: "chapter-7_events.md"
     },
     {
         id: 8,

@@ -139,3 +139,27 @@ function Header({ name, city, age }) {
   );
 }
 </pre></code>
+
+## Interview Questions
+
+**Q1. Props kya hai?**
+- Parent Component se Child Component ko data bhejne ka tarika.
+
+**Q2. Props kis direction me flow karte hain?**
+<code><pre>
+Parent
+
+↓
+
+Child
+</pre></code>
+
+- One Way Data Flow.
+
+**Q3. Props mutable hain?**
+
+- ❌ Nahi, Read Only.
+
+**Q4. props.name aur `{ name }` me kya difference hai?**
+- Dono same data access karte hain.
+- `{ name }` ko destructuring kehte hain aur ye professional style hai.
