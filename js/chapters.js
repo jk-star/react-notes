@@ -56,8 +56,8 @@ const chapters = [
     },
     {
         id: 12,
-        title: "Async / Await",
-        file: "chapter-12_async-await.md"
+        title: "Hooks",
+        file: "chapter-12_hook.md"
     },
     {
         id: 13,
@@ -66,8 +66,8 @@ const chapters = [
     },
     {
         id: 14,
-        title: "Pratice Task",
-        file: "chapter-14_task.md"
+        title: "Router",
+        file: "chapter-14_router.md"
     },
     {
         id: 15,
