@@ -71,8 +71,8 @@ const chapters = [
     },
     {
         id: 15,
-        title: "Algorithm",
-        file: "chapter-15_algorithm.md"
+        title: "Nested Routes",
+        file: "chapter-15_nested-routes.md"
     },
     {
         id: 16,
