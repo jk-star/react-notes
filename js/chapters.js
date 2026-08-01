@@ -76,8 +76,8 @@ const chapters = [
     },
     {
         id: 16,
-        title: "Logic Building Level1",
-        file: "chapter-16_logic-building-level1.md"
+        title: "Custom Hooks",
+        file: "chapter-16_custom-hooks.md"
     },
     {
         id: 17,
@@ -125,5 +125,5 @@ const chapters = [
         file: "chapter-25_logic-building-level10.md"
     }
 
-    
+
 ];
