@@ -101,29 +101,8 @@ const chapters = [
     },
     {
         id: 21,
-        title: "Logic Building Level6",
-        file: "chapter-21_logic-building-level6.md"
-    },
-    {
-        id: 22,
-        title: "Logic Building Level7",
-        file: "chapter-22_logic-building-level7.md"
-    },
-    {
-        id: 23,
-        title: "Logic Building Level8",
-        file: "chapter-23_logic-building-level8.md"
-    },
-    {
-        id: 24,
-        title: "Logic Building Level9",
-        file: "chapter-24_logic-building-level9.md"
-    },
-    {
-        id: 25,
-        title: "Logic Building Level10",
-        file: "chapter-25_logic-building-level10.md"
+        title: "useReducer()",
+        file: "chapter-21_useReducer.md"
     }
-
 
 ];
