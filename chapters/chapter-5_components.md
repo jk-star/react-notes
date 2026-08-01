@@ -47,9 +47,9 @@ import Header from "./components/Header";
 
 function App() {
   return (
-    <>
-      <Header />
-    </>
+    &lt;&gt;
+      &lt;Header /&gt;
+    &lt;/&gt;
   );
 }
 

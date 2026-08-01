@@ -1,4 +1,4 @@
-# Chapter 8 - Rendering Lists (map())
+# Chapter 9 - Rendering Lists (map())
 
 ## React me map()
 

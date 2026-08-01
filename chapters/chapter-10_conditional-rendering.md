@@ -1,4 +1,4 @@
-# Chapter 9 - Conditional Rendering ⭐⭐⭐⭐⭐
+# Chapter 10 - Conditional Rendering ⭐⭐⭐⭐⭐
 
 ## 1. Conditional Rendering Kya Hai?
 
@@ -110,6 +110,21 @@ function App() {
 
 **Q3. Sirf True par UI dikhani ho?**
 - &&
+
+<code><pre>
+function App() {
+  const isLoggedIn = true;
+
+  return (
+    &lt;div&gt;
+      &lt;h1&gt;My App&lt;h1&gt;
+      {isLoggedIn && &lt;h2&gt;Welcome User!&lt;h2&gt;}
+    &lt;/div&gt;
+  );
+}
+
+export default App;
+</pre></code>
 
 **Q4. Login/Logout kis concept ka example hai?**
 - Conditional Rendering.

@@ -1,4 +1,4 @@
-# Chapter 7 - State (useState Hook) ⭐⭐⭐⭐⭐
+# Chapter 8 - State (useState Hook) ⭐⭐⭐⭐⭐
 
 ## State Kya Hai?
 - State ek special variable hai.

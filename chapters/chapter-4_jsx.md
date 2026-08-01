@@ -144,7 +144,7 @@ function App() {
 
 ## Rule 6
 
-- JavaScript likhne ke liye Curly Braces `{}` use karte hain.
+- Variable likhne ke liye Curly Braces `{}` use karte hain.
 
 **Example**
 
