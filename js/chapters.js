@@ -81,18 +81,18 @@ const chapters = [
     },
     {
         id: 17,
-        title: "Logic Building Level2",
-        file: "chapter-17_logic-building-level2.md"
+        title: "useRef() Hook",
+        file: "chapter-17_useRef-hook.md"
     },
     {
         id: 18,
-        title: "Logic Building Level3",
-        file: "chapter-18_logic-building-level3.md"
+        title: "useMemo()",
+        file: "chapter-18_useMemo.md"
     },
     {
         id: 19,
-        title: "Logic Building Level4",
-        file: "chapter-19_logic-building-level4.md"
+        title: "useCallback()",
+        file: "chapter-19_useCallback.md"
     },
     {
         id: 20,
