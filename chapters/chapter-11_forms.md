@@ -26,7 +26,7 @@
     - useState
 
 ## 3. Controlled Component Kya Hai?
-- Jis input ki value React State control karti hai, usse Controlled Component kehte hain.
+- Jis input ki value React State control karti hai, use Controlled Component kehte hain.
 
 **Flow:**
 

@@ -1,4 +1,4 @@
-# Chapter 12 – Fetch API & Display Data ⭐
+# Chapter 13– Fetch API & Display Data ⭐
 ## 1. API Kya Hai?
 - API (Application Programming Interface) ek bridge hai jo do applications ke beech data exchange karwati hai.
 
