@@ -18,7 +18,7 @@
 
                 <div class="container-fluid">
 
-                    <h4 class="fw-bold">Admin Dashboard</h4>
+                    <h4 class="fw-bold">Set 4 – Conditional Rendering</h4>
 
                     <div class="ms-auto">
 
@@ -37,9 +37,27 @@
                 <!-- Cards -->
                 <div class="card shadow-sm">
                     <div class="card-body">
-                        <h3 class="mb-3"></h3>
-                        <b class="text-success text-capitalize">output</b>
-                        <div class="mb-3 mt-3 card shadow-sm p-3"></div>
+                        <h3 class="mb-3">Ek Login Status App banao.</h3>
+                        <div class="mb-3 mt-3 card shadow-sm p-3">
+                            <p>Initially:</p>
+                            <code>
+                                <pre>
+Welcome Guest
+
+[ Login ]
+                            </pre>
+                            </code>
+                            <p>Login click:</p>
+                            <code><pre>
+Welcome Jyoti
+
+You are logged in ✅
+
+[ Logout ]                                
+                            </pre></code>
+                            <p>Logout click karne par wapas Guest.</p>
+                            <img src="image/task4.png" width="100%">
+                        </div>
                     </div>
                 </div>
 

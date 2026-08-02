@@ -18,7 +18,7 @@
 
                 <div class="container-fluid">
 
-                    <h4 class="fw-bold">Admin Dashboard</h4>
+                    <h4 class="fw-bold">Set 3 – Events + useState</h4>
 
                     <div class="ms-auto">
 
@@ -39,7 +39,18 @@
                     <div class="card-body">
                         <h3 class="mb-3"></h3>
                         <b class="text-success text-capitalize">output</b>
-                        <div class="mb-3 mt-3 card shadow-sm p-3"></div>
+                        <div class="mb-3 mt-3 card shadow-sm p-3">
+                            <p>Ek Counter App banao.</p>
+                            <code>
+                                <pre>
+Counter: 0
+
+[ Increase ] [ Decrease ] [ Reset ]
+                            </pre>
+                            </code>
+                        </div>
+
+                        
                     </div>
                 </div>
 

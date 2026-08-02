@@ -18,7 +18,7 @@
 
                 <div class="container-fluid">
 
-                    <h4 class="fw-bold">Admin Dashboard</h4>
+                    <h4 class="fw-bold">Set 6 – map() + Components</h4>
 
                     <div class="ms-auto">
 
@@ -39,7 +39,43 @@
                     <div class="card-body">
                         <h3 class="mb-3"></h3>
                         <b class="text-success text-capitalize">output</b>
-                        <div class="mb-3 mt-3 card shadow-sm p-3"></div>
+                        <div class="mb-3 mt-3 card shadow-sm p-3">
+                            <b>Data:</b>
+                            <code>
+                                <pre>
+const employees = [
+  {
+    id: 1,
+    name: "Amit",
+    role: "Frontend Developer",
+    salary: 50000
+  },
+  {
+    id: 2,
+    name: "Rahul",
+    role: "Backend Developer",
+    salary: 60000
+  },
+  {
+    id: 3,
+    name: "Neha",
+    role: "UI Designer",
+    salary: 45000
+  }
+];
+                            </pre>
+                            </code>
+                            <p>
+                                EmployeeCard.jsx banao. <br />
+
+                                map() se cards render karo.<br /> <br />
+                                <b>Rules:</b>
+
+                                map() compulsory , EmployeeCard compulsory , key compulsory <br/>
+
+                                <b>Bonus:</b> Salary 50000 se zyada ho to High Salary show karo.
+                            </p>
+                        </div>
                     </div>
                 </div>
 

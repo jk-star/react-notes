@@ -18,7 +18,7 @@
 
                 <div class="container-fluid">
 
-                    <h4 class="fw-bold">Admin Dashboard</h4>
+                    <h4 class="fw-bold">Set 5 – Forms + Controlled Components</h4>
 
                     <div class="ms-auto">
 
@@ -37,9 +37,30 @@
                 <!-- Cards -->
                 <div class="card shadow-sm">
                     <div class="card-body">
-                        <h3 class="mb-3"></h3>
-                        <b class="text-success text-capitalize">output</b>
-                        <div class="mb-3 mt-3 card shadow-sm p-3"></div>
+                        <h3 class="mb-3">Ek Registration Form banao:</h3>
+                        <div class="mb-3 mt-3 card shadow-sm p-3">
+                            <p>
+                                <span class="fw-bold">Requirements:</span>
+                            <ul>
+                                <li>
+                                    Har input controlled hona chahiye.
+                                </li>
+                                <li>
+                                    Empty field par: <br />
+                                    <mark>Please fill all fields</mark>
+                                </li>
+                                <li>
+                                    Successful submit: <br />
+                                    <mark>Registration Successful</mark>
+                                </li>
+                                <li>
+                                    Submit ke baad fields clear karo.
+                                </li>
+                            </ul>
+                            Page reload nahi hona chahiye.
+                            </p>
+                            <img src="image/task5.png" width="100%">
+                        </div>
                     </div>
                 </div>
 

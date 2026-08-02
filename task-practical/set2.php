@@ -18,7 +18,7 @@
 
                 <div class="container-fluid">
 
-                    <h4 class="fw-bold">Admin Dashboard</h4>
+                    <h4 class="fw-bold">Set 2 – Props</h4>
 
                     <div class="ms-auto">
 
@@ -37,9 +37,32 @@
                 <!-- Cards -->
                 <div class="card shadow-sm">
                     <div class="card-body">
-                        <h3 class="mb-3"></h3>
+                        <h3 class="mb-3">Ek ProductCard.jsx component banao jo props accept kare</h3>
                         <b class="text-success text-capitalize">output</b>
-                        <div class="mb-3 mt-3 card shadow-sm p-3"></div>
+                        <div class="mb-3 mt-3 card shadow-sm p-3">
+                            <code><pre>
+name
+price
+category
+inStock
+                            </pre></code>
+                            <p>App.jsx se 3 products bhejo:</p>
+                            <code><pre>
+&lt;ProductCard
+  name="Laptop"
+  price={55000}
+  category="Electronics"
+  inStock={true}
+/&gt;
+
+&lt;ProductCard
+  name="Shoes"
+  price={2500}
+  category="Fashion"
+  inStock={false}
+/&gt;
+                            </pre></code>
+                        </div>
                     </div>
                 </div>
 
