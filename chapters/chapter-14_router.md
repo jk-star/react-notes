@@ -96,9 +96,9 @@ function App() {
   return (
     &lt;BrowserRouter&gt;
       &lt;Routes&gt;
-        &lt;Route path="/" element={<Home />} /&gt;
-        &lt;Route path="/about" element={<About />} /&gt;
-        &lt;Route path="/contact" element={<Contact />} /&gt;
+        &lt;Route path="/" element={`<Home />`} /&gt;
+        &lt;Route path="/about" element={`<About />`} /&gt;
+        &lt;Route path="/contact" element={`<Contact />`} /&gt;
       &lt;/Routes&gt;
     &lt;/BrowserRouter&gt;
   );
@@ -186,9 +186,9 @@ export default Navbar;
 &lt;BrowserRouter&gt;
   &lt;Navbar /&gt;
   &lt;Routes&gt;
-    &lt;Route path="/" element={<Home />} /&gt;
-    &lt;Route path="/about" element={<About />} /&gt;
-    &lt;Route path="/contact" element={<Contact />} /&gt;
+    &lt;Route path="/" element={`<Home />`} /&gt;
+    &lt;Route path="/about" element={`<About />`} /&gt;
+    &lt;Route path="/contact" element={`<Contact />`} /&gt;
   &lt;/Routes&gt;
 &lt;/BrowserRouter&gt;
 </pre></code>
@@ -261,7 +261,7 @@ export default NotFound;
 <code><pre>
 &lt;Route
   path="*"
-  element={<NotFound />}
+  element={`<NotFound />`}
 /&gt;
 </pre></code>
 
